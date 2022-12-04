@@ -1,0 +1,14 @@
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Downloads Cleaner\bin\Release\netcoreapp3.1\Downloads Cleaner.exe
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Downloads Cleaner\bin\Release\netcoreapp3.1\Downloads Cleaner.deps.json
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Downloads Cleaner\bin\Release\netcoreapp3.1\Downloads Cleaner.runtimeconfig.json
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Downloads Cleaner\bin\Release\netcoreapp3.1\Downloads Cleaner.runtimeconfig.dev.json
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Downloads Cleaner\bin\Release\netcoreapp3.1\Downloads Cleaner.dll
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Downloads Cleaner\bin\Release\netcoreapp3.1\Downloads Cleaner.pdb
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Downloads Cleaner\obj\Release\netcoreapp3.1\Downloads Cleaner.csproj.AssemblyReference.cache
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Downloads Cleaner\obj\Release\netcoreapp3.1\Downloads Cleaner.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Downloads Cleaner\obj\Release\netcoreapp3.1\Downloads Cleaner.AssemblyInfoInputs.cache
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Downloads Cleaner\obj\Release\netcoreapp3.1\Downloads Cleaner.AssemblyInfo.cs
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Downloads Cleaner\obj\Release\netcoreapp3.1\Downloads Cleaner.csproj.CoreCompileInputs.cache
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Downloads Cleaner\obj\Release\netcoreapp3.1\Downloads Cleaner.dll
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Downloads Cleaner\obj\Release\netcoreapp3.1\Downloads Cleaner.pdb
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Downloads Cleaner\obj\Release\netcoreapp3.1\Downloads Cleaner.genruntimeconfig.cache

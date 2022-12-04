@@ -1,0 +1,5 @@
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Publish\Downloads Cleaner.exe
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Publish\Downloads Cleaner.dll
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Publish\Downloads Cleaner.deps.json
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Publish\Downloads Cleaner.runtimeconfig.json
+D:\GIT-HUB\Delete RDP files Script\Downloads Cleaner\Publish\Downloads Cleaner.pdb
