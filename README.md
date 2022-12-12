@@ -8,6 +8,7 @@ Please see config.json to edit which folder to delete from (to change to YOUR do
 Please see config.json to edit which types of files to delete. (default is *.rdp which will delete all files ending with .rdp)
 
 =======RECCOMENDED=======
+
 This program can be run automatically on a schedule with Window's Task Scheduler.
 
 1) In order to do this, hit "start" and search Task Scheduler. (if it is not in search, check control panel)
