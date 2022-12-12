@@ -1,3 +1,4 @@
 {
-  "PathToDeleteFrom": "C:\\Users\\scott\\Downloads"
+  "PathToDeleteFrom": "C:\\Users\\scott\\Downloads",
+  "TypesOfFilesToRemove": "*.rdp"
 }

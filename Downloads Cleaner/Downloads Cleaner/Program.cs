@@ -20,11 +20,12 @@ namespace Downloads_Cleaner
             IConfiguration config = builder.Build();
 
             string path = config.GetSection("PathToDeleteFrom").Value;
+            string filesToRemove= config.GetSection("TypesOfFilesToRemove").Value;
 
             Console.WriteLine("Starting....");
             Console.WriteLine("Deleting Files in " + path);
             
-            string[] directoryFiles = System.IO.Directory.GetFiles(path, "*.rdp");
+            string[] directoryFiles = System.IO.Directory.GetFiles(path, filesToRemove);
             foreach (string directoryFile in directoryFiles)
             {
                 Console.WriteLine("...Deleting file : " + directoryFile);
@@ -32,7 +33,8 @@ namespace Downloads_Cleaner
             }
 
             Console.WriteLine("Finished....");
-       
+
+            //Console.ReadLine();
         }
     }
 }
