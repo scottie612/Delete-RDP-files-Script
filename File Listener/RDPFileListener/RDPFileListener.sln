@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDPFileListener", "RDPFileListener.csproj", "{4E034898-631B-4E2E-8781-C00C6424B8AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E034898-631B-4E2E-8781-C00C6424B8AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E034898-631B-4E2E-8781-C00C6424B8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E034898-631B-4E2E-8781-C00C6424B8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E034898-631B-4E2E-8781-C00C6424B8AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF68D67-C75E-44C3-A752-C04B1950BD9A}
+	EndGlobalSection
+EndGlobal
