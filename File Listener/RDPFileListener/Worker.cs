@@ -18,7 +18,7 @@ namespace RDPFileListener
         protected override Task ExecuteAsync(CancellationToken stoppingToken)
         {
             _watcher.watch();
-            while(!stoppingToken.IsCancellationRequested) { }
+            while(!stoppingToken.IsCancellationRequested) { Thread.Sleep(10); }
             Environment.Exit(0);
             return Task.CompletedTask;
         }
