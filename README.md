@@ -1,7 +1,4 @@
 # Delete-RDP-files-Script
-
-Hello! 
-
 This program will delete all specified files in a folder with certian names or extensions.
 
 Please see config.json to edit which folder to delete from (to change to YOUR downloads folder C:/Users/{YOUR USER NAME}/Downloads.
