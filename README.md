@@ -16,6 +16,6 @@ This program can be run automatically on a schedule with Window's Task Scheduler
   Action: Start a Program
   Program/Script: SELECT FOLDER WHERE "Downloads Cleaner.exe" is located
   Ok:
-6) wait for program to run based on the time interval you set :D
+6) Wait for program to run based on the time interval you set :D
 
 ========================
